@@ -10,7 +10,7 @@ The purpose of this project is to convince the investors that a bike-sharing pro
 
 ## Results
 
-This portion of the project focuses on the data visualizations that were created using Tableau. However, before creating the visualizations, Python and Pandas functions has to be used for creating a DataFrame and converting the **"tripduration"** column of the [NYC Citi Bike Data](Resources/201908-citibike-tripdata.csv) from an integer to a datetime datatype for retrieving the time in hours, minutes and seconds as shown in the figure below. As a result of this, the DataFrame has to be exported as a CSV file for the bike trip analysis.
+This portion of the project focuses on the data visualizations that were created using Tableau. However, before creating the visualizations, Python and Pandas functions has to be used for creating a DataFrame and converting the **"tripduration"** column of the NYC Citi Bike Data CSV file from an integer to a datetime datatype for retrieving the time in hours, minutes and seconds as shown in the figure below. As a result of this, the DataFrame has to be exported as a CSV file for the bike trip analysis.
 
 ![Converted values in the "tripduartion" column](Resources/Citibike_df.png)
 
@@ -22,7 +22,7 @@ Figure above demonstrates the length of time that bikes are checked out for all 
 
 ### Checkout Times by Gender
 
-![Checkout times by gender](Resources/Checkout_Times_Gender.png)
+![Checkout times by gender](Resources/Checkout_Time_by_Gender.png)
 
 The graph displayed above, illustrates the length of time that bikes are checked out for each gender. The checked out times that is broken down by each gender is approximately equivalent among all the genders where males are making up a greater portion of the bike rentals comparing to other genders.
 
@@ -44,7 +44,7 @@ Figure above demonstrates the number of bike trips by gender for each hour of ea
 
 Figure above depicts the number of short-term customers and annual subscribers to the Citi Bike service. This piece of data helps us determine types of customers we can expect for a bike-sharing company in Des Moines. As it can be seen, majority of the customers are annual subscribers which indicates that majority of users are using this service as a mean of transportation for performing their daily activities such as commuting to and from work. 
 
-### User Trips by Gender 
+### User Trips by Gender by Weekday
 
 ![User trips by gender](Resources/User_Trips_by_Gender_by_Weekday.png)
 
@@ -67,4 +67,4 @@ Furthermore, it is a good idea to consider the following additional visualizatio
 - Creating a visualization that would show case the duration of bike rental with respect to the users age, as this would help us determine which age groups tend to be taking more and longer rides.
 
 The tableau story which is composed of all the visualizations displayed above in an interactive format can be viewed through the following link:
-[Link to dashboard](https://public.tableau.com/app/profile/taravat/viz/NYCCitiBikeStory_16267565493390/NYCCitiBikeStory?publish=yes)
+[Link to dashboard](https://public.tableau.com/app/profile/taravat/viz/NYCCitiBikeStory_16267587697570/NYCCitiBikeStory?publish=yes)
