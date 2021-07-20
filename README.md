@@ -1,4 +1,4 @@
-# Bike-sharingg
+# Bike-sharing
 
 ## Overview of Project
 
