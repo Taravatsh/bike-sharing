@@ -10,7 +10,7 @@ The purpose of this project is to convince the investors that a bike-sharing pro
 
 ## Results
 
-This portion of the project focuses on the data visualizations that were created using Tableau. However, before creating the visualizations, Python and Pandas functions has to be used for creating a DataFrame and converting the **"tripduration"** column of the NYC Citi Bike Data CSV file from an integer to a datetime datatype for retrieving the time in hours, minutes and seconds as shown in the figure below. As a result of this, the DataFrame has to be exported as a CSV file for the bike trip analysis.
+This portion of the project focuses on the data visualizations that were created using Tableau. However, before creating the visualizations, Python and Pandas functions has to be used for creating a DataFrame and converting the **"tripduration"** column of the NYC Citi Bike Data CSV file from an integer to a datetime datatype for retrieving the time in hours, minutes and seconds as shown in the figure below. As a result of this, the DataFrame has to be exported as a CSV file and gets imported into Tableau for performing the bike trip analysis.
 
 ![Converted values in the "tripduartion" column](Resources/Citibike_df.png)
 
@@ -48,7 +48,7 @@ Figure above depicts the number of short-term customers and annual subscribers t
 
 ![User trips by gender](Resources/User_Trips_by_Gender_by_Weekday.png)
 
-The heatmap of number of trips broken down by gender and type of users for each hour for each day of the week is displayed in the figure below. As it can be seen, majority of subscribers are males indicating that they rely on bike as a transportation method throughout the weekdays and weekends. Additionally, it can be seen that  non-subscribers tend to be using the service mainly during the weekends for performing activities other than work.
+The heatmap of number of trips broken down by gender and type of users for each hour for each day of the week is displayed in the figure above. As it can be seen, majority of subscribers are males indicating that they rely on bike as a transportation method throughout weekdays and weekends. Additionally, it can be seen that non-subscribers tend to be using the service mainly during the weekends for performing activities other than work.
 
 ### August Riding Hours
 
