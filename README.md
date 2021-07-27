@@ -10,7 +10,7 @@ The purpose of this project is to convince the investors that a bike-sharing pro
 
 ## Results
 
-This portion of the project focuses on the data visualizations that were created using Tableau. However, before creating the visualizations, Python and Pandas functions has to be used for creating a DataFrame and converting the **"tripduration"** column of the NYC Citi Bike Data CSV file from an integer to a datetime datatype for retrieving the time in hours, minutes and seconds as shown in the figure below. As a result of this, the DataFrame has to be exported as a CSV file and gets imported into Tableau for performing the bike trip analysis.
+This portion of the project focuses on the data visualizations that were created using Tableau. However, before creating the visualizations, Python and Pandas functions had to be used for creating a DataFrame and converting the **"tripduration"** column of the NYC Citi Bike Data CSV file from an integer to a datetime datatype for retrieving the time in hours, minutes and seconds as shown in the figure below. As a result of this, the DataFrame had to be exported as a CSV file and imported into Tableau for performing the bike trip analysis.
 
 ![Converted values in the "tripduartion" column](Resources/Citibike_df.png)
 
@@ -24,7 +24,7 @@ Figure above demonstrates the length of time that bikes are checked out for all 
 
 ![Checkout times by gender](Resources/Checkout_Time_by_Gender.png)
 
-The graph displayed above, illustrates the length of time that bikes are checked out for each gender. The checked out times that is broken down by each gender is approximately equivalent among all the genders where males are making up a greater portion of the bike rentals comparing to other genders.
+The graph displayed above, illustrates the length of time that bikes are checked out for each gender. The checked out times that are broken down by each gender are approximately equivalent among all the genders where males are making up a greater portion of the bike rentals comparing to other genders.
 
 ### Trips by Weekday for Each Hour
 
@@ -66,5 +66,5 @@ Furthermore, it is a good idea to consider the following additional visualizatio
 
 - Creating a visualization that would show case the duration of bike rental with respect to the users age, as this would help us determine which age groups tend to be taking more and longer rides.
 
-The tableau story which is composed of all the visualizations displayed above in an interactive format can be viewed through the following link:
+The tableau story which is composed of all the visualizations, displayed above, in an interactive format can be viewed through the following link:
 [Link to dashboard](https://public.tableau.com/app/profile/taravat/viz/NYCCitiBikeStory_16267587697570/NYCCitiBikeStory?publish=yes)
