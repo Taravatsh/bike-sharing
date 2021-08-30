@@ -67,4 +67,4 @@ Furthermore, it is a good idea to consider the following additional visualizatio
 - Creating a visualization that would show case the duration of bike rental with respect to the users age, as this would help us determine which age groups tend to be taking more and longer rides.
 
 The tableau story which is composed of all the visualizations, displayed above, in an interactive format can be viewed through the following link:
-[Link to dashboard](https://public.tableau.com/app/profile/taravat/viz/NYCCitiBikeStory_16267587697570/NYCCitiBikeStory?publish=yes)
+[Link to Dashboard](https://public.tableau.com/app/profile/taravat/viz/NYCCitiBikeStory_16267587697570/NYCCitiBikeStory?publish=yes)
