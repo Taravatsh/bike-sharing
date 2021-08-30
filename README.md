@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The purpose of this project is to convince the investors that a bike-sharing program in Des Moines is a solid business proposal by providing them with data visualizations of how bike-sharing model works in NYC which helps in providing insights for potential bike-sharing investment in Des Moines. Using the CSV file data on NYC Citi Bike that is provided on the Citi Bike Website, we are required to use Tableau to create different set of visualizations for the bike trip analysis. The visualizations created should demonstrate the following:
+The purpose of this project is to convince the investors that a bike-sharing program in Des Moines is a solid business proposal by providing them with data visualizations of how bike-sharing model works in NYC which helps in providing insights for potential bike-sharing investment in Des Moines. Using the CSV file data on NYC Citi Bike that is provided on the Citi Bike Website, we are required to use Tableau to create different set of visualizations for the bike trip analysis. The visualizations created should demonstrate the following data:
 
 - The length of time that bikes are checked out for all riders and genders.
 - The number of bike trips for all riders and genders for each hour of each day of the week.
