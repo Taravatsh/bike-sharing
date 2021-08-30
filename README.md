@@ -38,7 +38,7 @@ Figure above depicts the number of bike trips by weekday for each hour of the da
 
 Figure above demonstrates the number of bike trips by gender for each hour of each day of the week as a heatmap. Looking at the concentration of trips per hour for weekdays, it can be clearly seen that majority of the users are males where trips are most likely occurring between 6-9 AM and 4-8 PM on weekdays.
 
-### Customer Type
+### Customer Types
 
 ![Customer Types](Resources/Customer_Type.png)
 
